@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+    <string name="webview_button">WebView</string>
+    <string name="native_button">Native</string>
+</resources>
